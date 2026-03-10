@@ -1,3 +1,13 @@
+# Project-specific 
+algorithmic-trading/
+.ipynb_checkpoints/
+sp_500_stocks.csv
+**/secrets.py
+.DS_Store
+__pycache__
+**/recommended_trades.xlsx
+**/momentum_strategy.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
